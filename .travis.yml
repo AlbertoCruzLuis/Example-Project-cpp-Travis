@@ -1,0 +1,8 @@
+language: cpp
+compiler: 
+- g++
+os:
+- linux
+script:
+- make
+- make run
